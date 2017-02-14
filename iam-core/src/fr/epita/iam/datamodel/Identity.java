@@ -4,6 +4,7 @@
 package fr.epita.iam.datamodel;
 
 /**
+ * Class representing single user identity in the database
  * @author ohajek
  *
  */
